@@ -4,12 +4,13 @@
 }
 
 .colour-border{
-  border: 3px solid purple;
+  border: 3px solid deeppink;
   padding: 10px;
 }
 
 .header{
   padding: 10px;
+  font-size: large;
 }
 
 body{
